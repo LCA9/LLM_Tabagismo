@@ -30,5 +30,5 @@ Comando para iniciar o funcionamento do streamlit: streamlit run streamlit_app.p
 
 posteriormente copie e cole no url do browser:http://localhost:8501/
 
-Donwload arquivo fastenv, .env e video: https://drive.google.com/file/d/1HduVakl0p-HdPWQnpYlQvZCDNdJbIjbW/view?usp=sharing
+Donwload arquivo fastenv, .env, Faiss(Vector Store) e video: https://drive.google.com/file/d/1HduVakl0p-HdPWQnpYlQvZCDNdJbIjbW/view?usp=sharing
 
